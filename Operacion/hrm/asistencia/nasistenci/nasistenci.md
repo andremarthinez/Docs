@@ -12,7 +12,7 @@ En esta ventana se manejan conceptos relacionados con turnos, controles de asist
 Las aplicaciones que se utilizan son:  
 
 * [**Programación de turnos - NNCAL**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nncal)    
-* [**Conceptos de liquidaciones - NPLP**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nplp)  
+* [**Liquidaciones de Conceptos - NPLP**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nplp)  
 * [**Programación de turnos - NPRT**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nprt) 
 * [**Programación de puestos - NPUE**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/npue)  
 * [**Asistencia - NASI**](http://docs.oasiscom.com/Operacion/hrm/asistencia/nasistenci/nasi)  
