@@ -58,6 +58,8 @@ Una vez diligenciada la información en la pestaña operaciones debemos registra
 ![](lrut8.png)
 
 
+## [Proceso Producción](https://docs.oasiscom.com/Operacion/mrp/produccion/lproducto/lrut#Proceso-Produción)
+
 
 
 
