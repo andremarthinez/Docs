@@ -9,7 +9,7 @@ editable: si
 
 
 ### prueba
-
+Jaz
 
 La aplicación **GCNT** permite crear los contratos correspondientes al módulo de Hospital. En el maestro agregamos un nuevo registro y diligenciamos los campos. Al dar clic en el botón _Guardar_, el sistema insertará automáticamente el detalle con el mismo producto que se digitó en el maestro al igual que el precio vigente.  
 
